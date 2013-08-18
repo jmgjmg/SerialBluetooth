@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ArduinoSerialBT</string>
+    <string name="btnOn">ON</string>
+    <string name="btnOff">OFF</string>
+    <string name="btnSend">Send</string>
+    <string name="btnClear">Clear</string>
+    <string name="btnSetMAC">Set MAC</string>
+    <string name="inputText">Input Text</string>
+    <string name="receivedText">Received Text</string>
+    <string name="ma2">20:13:05:15:15:60</string> 
+    <string name="mac">20:13:05:15:06:53</string>
+    <string name="macAddress">MAC</string>
+    <string name="setMACActivity">Set Bluetooth MAC address</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+    <string name="ok">OK</string>
+	<string name="prefsFile">PrefsFile</string>
+</resources>
